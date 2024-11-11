@@ -18,9 +18,9 @@ Transform your macOS desktop with animated GIF wallpapers! DragonGIFWallpaper le
 
 ## Screenshots
 
-![Screenshot 1](path/to/your/image1.png)
-![Screenshot 2](path/to/your/image2.png)
-![Screenshot 3](path/to/your/image3.png)
+![Screenshot 1](./images/screenshot01.png)
+![Screenshot 2](./images/screenshot02.png)
+![Screenshot 3](./images/screenshot03.png)
 
 ## Installation
 
