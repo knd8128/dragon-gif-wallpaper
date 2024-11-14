@@ -45,3 +45,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## Support
 
 For support or inquiries, please contact [contact@liveratti.com](mailto:contact@liveratti.com).
+
+If you find DragonGIFWallpaper useful and would like to help support its continued development and maintenance, please consider making a small donation:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/knd8128)
+
+With the support of contributors like you, I can continue building, releasing, and maintaining high-quality, well-documented applications like DragonGIFWallpaper for free.
+
