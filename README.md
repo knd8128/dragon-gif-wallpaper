@@ -48,7 +48,7 @@ For support or inquiries, please contact [contact@liveratti.com](mailto:contact@
 
 If you find DragonGIFWallpaper useful and would like to help support its continued development and maintenance, please consider making a small donation:
 
-<a href="https://www.buymeacoffee.com/knd8128" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rza8128" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 With the support of contributors like you, I can continue building, releasing, and maintaining high-quality, well-documented applications like DragonGIFWallpaper for free.
 
